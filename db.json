@@ -14,17 +14,16 @@
       "tankingBalance": "1000000"
     }
   ],
-    "users": [
+  "users": [
     {
-      "id": 1,
+      "id": "1",
       "userName": "張三",
       "address": {
         "postCode": "115-2000",
         "addr": "中國大連"
       }
     }
-  ]
-,
+   ],
    "user-deposit-transactions": [
     {
       "id": "Y0000000000100001065",
