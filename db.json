@@ -1,19 +1,14 @@
 {
-  "user-charge-transactions": [
+  "users": [
     {
-      "id": "Y0000000000100001061",
-      "機能1": " 利用者引落",
-      "transactionNumber": "Y0000000000100001061",
-      "requestDateTime": "2020-02-20T12:34:56.789",
-      "jcnApiSeqNumber": "20191212143219103010",
-      "jcnReceiveDateTime": "2020-02-20T12:34:56.789",
-      "resultCode": "000000",
-      "localResponseCode": "000",
-      "amount": "12345678900",
-      "tankingNumber": "00123",
-      "tankingBalance": "1000000"
+      "id": 1,
+      "userName": "張三",
+      "address": {
+        "postCode": "115-2000",
+        "addr": "中國大連"
+      }
     }
-  ],
+   ],
    "user-deposit-transactions": [
     {
       "id": "Y0000000000100001065",
