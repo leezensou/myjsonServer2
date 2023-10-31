@@ -49,36 +49,5 @@
         "overseasAddress": "LEVEL18,600 BOURKE STREET,MELBOURNE,VICTORIA 3000 AUSTRALIA"
       }
     }
-   ],
-  "users-address-is-overseas": [
-    {
-      "id":"U4",
-      "customerName": "三菱太郎aBc　商店",
-      "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
-      "birthDate": "1980-05-05",
-      "gender": "1",
-      "phoneNumber1": "080-5678-0123",
-      "phoneNumber2": "090-5678-0123",
-      "phoneNumber3": "070-5678-0123",
-      "address": {
-        "postalCode": "114-0003",
-        "overseasAddress": "LEVEL18,600 BOURKE STREET,MELBOURNE,VICTORIA 3000 AUSTRALIA"
-      }
-    }
-   ],
-  "company-deposit-transactions": [
-    {
-      "id": "Y0000000000100001065",
-      "機能1": " 収納企業入金",
-      "transactionNumber": "Y0000000000100001065",
-      "requestDateTime": "2020-02-20T12:34:56.789",
-      "jcnApiSeqNumber": "20191212143219103010",
-      "jcnReceiveDateTime": "2020-02-20T12:34:56.789",
-      "resultCode": "000000",
-      "localResponseCode": "000",
-      "amount": "12345678900",
-      "tankingNumber": "00123",
-      "tankingBalance": "0"
-    }
-  ]
+   ]
 }
