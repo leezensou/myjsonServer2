@@ -32,54 +32,6 @@
         "overseasAddress": "LEVEL18,600 BOURKE STREET,MELBOURNE,VICTORIA 3000 AUSTRALIA"
       }
     }
-   ],
-  "users-address-not-understand": [
-    {
-      "id": 3,
-      "customerName": "三菱太郎aBc　商店",
-      "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
-      "birthDate": "1980-05-05",
-      "gender": "1",
-      "phoneNumber1": "080-5678-0123",
-      "phoneNumber2": "090-5678-0123",
-      "phoneNumber3": "070-5678-0123",
-      "address": {
-        "postalCode": "114-0003",
-        "domesticAddress": "東京都千代田区丸の内１－２－３　三菱マンション１２３４",
-        "overseasAddress": "LEVEL18,600 BOURKE STREET,MELBOURNE,VICTORIA 3000 AUSTRALIA"
-      }
-    }
-   ],
-   "users-address-is-overseas": [
-    {
-      "id": 4,
-      "customerName": "三菱太郎aBc　商店",
-      "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
-      "birthDate": "1980-05-05",
-      "gender": "1",
-      "phoneNumber1": "080-5678-0123",
-      "phoneNumber2": "090-5678-0123",
-      "phoneNumber3": "070-5678-0123",
-      "address": {
-        "postalCode": "114-0003",
-        "overseasAddress": "LEVEL18,600 BOURKE STREET,MELBOURNE,VICTORIA 3000 AUSTRALIA"
-      }
-    }
-   ],
- "users-no-name": [
-    {
-      "id": 5,
-      "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
-      "birthDate": "1980-05-05",
-      "gender": "1",
-      "phoneNumber1": "080-5678-0123",
-      "phoneNumber2": "090-5678-0123",
-      "phoneNumber3": "070-5678-0123",
-      "address": {
-        "postalCode": "114-0003",
-        "domesticAddress": "東京都千代田区丸の内１－２－３　三菱マンション１２３４",
-      }
-    }
    ]
 }
 
