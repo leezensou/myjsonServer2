@@ -1,7 +1,7 @@
 {
-  "users-normal": [
+  "users": [
     {
-      "id": 1,
+      "id": "U1",
       "customerName": "三菱太郎　商店",
       "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
       "birthDate": "1980-05-05",
@@ -16,22 +16,50 @@
       }
     }
    ],
-   "users-name-alpha": [
+   "user-deposit-transactions": [
     {
-      "id": 2,
-      "customerName": "三菱太郎aBc　商店",
-      "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
-      "birthDate": "1980-05-05",
-      "gender": "1",
-      "phoneNumber1": "080-5678-0123",
-      "phoneNumber2": "090-5678-0123",
-      "phoneNumber3": "070-5678-0123",
-      "address": {
-        "postalCode": "114-0003",
-        "domesticAddress": "東京都千代田区丸の内１－２－３　三菱マンション１２３４",
-        "overseasAddress": "LEVEL18,600 BOURKE STREET,MELBOURNE,VICTORIA 3000 AUSTRALIA"
-      }
+      "id": "Y0000000000100001065",
+      "機能1": " 利用者入金",
+      "transactionNumber": "Y0000000000100001065",
+      "requestDateTime": "2020-02-20T12:34:56.789",
+      "jcnApiSeqNumber": "20191212143219103010",
+      "jcnReceiveDateTime": "2020-02-20T12:34:56.789",
+      "resultCode": "000000",
+      "localResponseCode": "000",
+      "amount": "12345678900",
+      "tankingNumber": "00123",
+      "tankingBalance": "1000000"
     }
-   ]
-}
+  ],
 
+  "company-charge-transactions": [
+    {
+      "id": "Y0000000000100001065",
+      "機能1": "収納企業引落",
+      "transactionNumber": "Y0000000000100001065",
+      "requestDateTime": "2020-02-20T12:34:56.789",
+      "jcnApiSeqNumber": "20191212143219103010",
+      "jcnReceiveDateTime": "2020-02-20T12:34:56.789",
+      "resultCode": "000000",
+      "localResponseCode": "000",
+      "amount": "12345678900",
+      "tankingNumber": "00123",
+      "tankingBalance": "1000000"
+    }
+  ],
+  "company-deposit-transactions": [
+    {
+      "id": "Y0000000000100001065",
+      "機能1": " 収納企業入金",
+      "transactionNumber": "Y0000000000100001065",
+      "requestDateTime": "2020-02-20T12:34:56.789",
+      "jcnApiSeqNumber": "20191212143219103010",
+      "jcnReceiveDateTime": "2020-02-20T12:34:56.789",
+      "resultCode": "000000",
+      "localResponseCode": "000",
+      "amount": "12345678900",
+      "tankingNumber": "00123",
+      "tankingBalance": "0"
+    }
+  ]
+}
