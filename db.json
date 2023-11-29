@@ -1,5 +1,5 @@
 {
-  "users-normal": [
+  "users-normal": 
     {
       "id":"U1",
       "customerName": "三菱 太郎",
@@ -15,8 +15,8 @@
         "overseasAddress": "LEVEL18,600 BOURKE STREET,MELBOURNE,VICTORIA 3000 AUSTRALIA"
       }
     }
-   ],
-   "users-name-alpha": [
+   ,
+   "users-name-alpha": 
     {
       "id":"U2",
       "customerName": "三菱aBc　二郎",
@@ -32,8 +32,8 @@
         "overseasAddress": "LEVEL18,600 BOURKE STREET,MELBOURNE,VICTORIA 3000 AUSTRALIA"
       }
     }
-   ],
-  "users-address-not-understand": [
+  ,
+  "users-address-not-understand": 
     {
       "id":"U3",
       "customerName": "三菱　三郎　商店",
@@ -49,8 +49,8 @@
         "overseasAddress": "LEVEL18,600 BOURKE STREET,MELBOURNE,VICTORIA 3000 AUSTRALIA"
       }
     }
-   ],
-  "users-address-is-overseas": [
+   ,
+  "users-address-is-overseas": 
     {
       "id":"U4",
       "customerName": "三菱　五郎",
@@ -65,8 +65,8 @@
         "overseasAddress": "LEVEL18,600 BOURKE STREET,MELBOURNE,VICTORIA 3000 AUSTRALIA"
       }
     }
-   ],
-  "users-no-customerName": [
+   ,
+  "users-no-customerName": 
     {
       "id":"U5",
       "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
@@ -81,5 +81,5 @@
         "overseasAddress": "LEVEL18,600 BOURKE STREET,MELBOURNE,VICTORIA 3000 AUSTRALIA"
       }
     }
-   ]
+   
 }
