@@ -43,8 +43,7 @@
       "phoneNumber3": "070-5678-0123",
       "address": {
         "postalCode": "114-0003",
-        "domesticAddress": "テスト市安波茶６丁目浦添店",
-        "overseasAddress": "LEVEL18,600 BOURKE STREET,MELBOURNE,VICTORIA 3000 AUSTRALIA"
+        "domesticAddress": "テスト市安波茶６丁目浦添店"
       }
     }
    ,
@@ -60,6 +59,7 @@
       "phoneNumber3": "070-5678-0123",
       "address": {
         "postalCode": "114-0004",
+        "domesticAddress": "東京都千代田区丸の内１－２－３　三菱マンション１２３４",
         "overseasAddress": "LEVEL18,600 BOURKE STREET,MELBOURNE,VICTORIA 3000 AUSTRALIA"
       }
     }
@@ -75,8 +75,7 @@
       "phoneNumber3": "070-5678-0123",
       "address": {
         "postalCode": "114-0003",
-        "domesticAddress": "東京都千代田区丸の内１－２－３　三菱マンション１２３４",
-        "overseasAddress": "LEVEL18,600 BOURKE STREET,MELBOURNE,VICTORIA 3000 AUSTRALIA"
+        "domesticAddress": "東京都千代田区丸の内１－２－３　三菱マンション１２３４"
       }
     }
    
