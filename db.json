@@ -18,17 +18,21 @@
    "users-name-alpha": 
     {
       "id":"U2",
-      "customerName": "三菱aBc　二郎",
-      "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
-      "birthDate": "1980-05-05",
+      "customerName": "SATOH ICHIRO",
+      "customerNameKana": "サトウ　イチロウ",
+      "birthDate": "1995-11-01",
       "gender": "1",
       "phoneNumber1": "080-5678-0123",
       "phoneNumber2": "090-5678-0123",
       "phoneNumber3": "070-5678-0123",
       "address": {
-        "postalCode": "114-0003",
-        "domesticAddress": "東京都千代田区丸の内１－２－３　三菱マンション１２３４"
-      }
+        "postalCode": "156-0055",
+        "domesticAddress": "東京都世田谷区７－１－８号棟７１４号室",
+        "domesticAddressKana": "",
+        "overseasAddress": "",
+        "overseasAddressKanji": ""
+      },
+      "isIdentityVerified": true
     }
   ,
   "users-address-not-understand": 
