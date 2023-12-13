@@ -18,7 +18,7 @@
    "users-name-alpha": 
     {
       "id":"U2",
-      "customerName": "SATOH ICHIRO",
+      "customerName": "ＳＡＴＯＨ　ＩＣＨＩＲＯ",
       "customerNameKana": "サトウ　イチロウ",
       "birthDate": "1995-11-01",
       "gender": "1",
@@ -28,7 +28,7 @@
       "address": {
         "postalCode": "156-0055",
         "domesticAddress": "東京都世田谷区７－１－８号棟７１４号室",
-        "domesticAddressKana": null,
+        "domesticAddressKana": "",
         "overseasAddress": "",
         "overseasAddressKanji": ""
       },
