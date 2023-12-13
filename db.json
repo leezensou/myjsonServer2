@@ -28,7 +28,7 @@
       "address": {
         "postalCode": "156-0055",
         "domesticAddress": "東京都世田谷区７－１－８号棟７１４号室",
-        "domesticAddressKana": "",
+        "domesticAddressKana": null,
         "overseasAddress": "",
         "overseasAddressKanji": ""
       },
