@@ -18,8 +18,8 @@
    "users-name-alpha": 
     {
       "id":"U2",
-      "customerName": "山﨑　一郎",
-      "customerNameKana": "ヤマザキ　イチロウ",
+      "customerName": "佐藤　一郎",
+      "customerNameKana": "サトウ　イチロウ",
       "birthDate": "1995-11-01",
       "gender": "1",
       "phoneNumber1": "080-5678-0123",
@@ -27,7 +27,7 @@
       "phoneNumber3": "070-5678-0123",
       "address": {
         "postalCode": "156-0055",
-        "domesticAddress": "東京都世田谷区７－１－８号棟７１４号室",
+        "domesticAddress": "東京都世田谷区７－１－８号棟㈹７１４号室",
         "domesticAddressKana": "",
         "overseasAddress": "",
         "overseasAddressKanji": ""
