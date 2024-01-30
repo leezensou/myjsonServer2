@@ -2,8 +2,8 @@
   "users-blank": 
     {
       "id":"U1",
-      "customerName": "佐藤　",
-      "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
+      "customerName": "佐藤　一郎",
+      "customerNameKana": "",
       "birthDate": "1980-05-05",
       "gender": "2",
       "phoneNumber1": "080-5678-0123",
@@ -18,8 +18,8 @@
    "users-name-maxLenOver": 
    {
     "id":"U2",
-    "customerName": "佐藤　一郎一郎あいうえおかきくけこさしすせそたちつてとなにぬねろ",
-    "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
+    "customerName": "佐藤　一郎",
+    "customerNameKana": "ミツビシタロウアイウエオカキクケコサシスセソナニムネロヤイユエヨハヒフヘホ　バツバツシヨウテン",
     "birthDate": "1980-05-05",
     "gender": "2",
     "phoneNumber1": "080-5678-0123",
@@ -34,8 +34,8 @@
   "users-name-shift-jis-ng": 
   {
     "id":"U3",
-    "customerName": "佐藤　一郎ئيؤوئيؤ",
-    "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
+    "customerName": "佐藤　一郎",
+    "customerNameKana": "ミツビシタロウئيؤوئيؤ　バツバツシヨウテン",
     "birthDate": "1980-05-05",
     "gender": "2",
     "phoneNumber1": "080-5678-0123",
@@ -50,8 +50,8 @@
    "users-name-notallow-char": 
   {
     "id":"U4",
-    "customerName": "佐藤　一郎＠ゝゞ〇",
-    "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
+    "customerName": "佐藤　一郎",
+    "customerNameKana": "ミツビシタロウ＠ゝゞ〇　バツバツシヨウテン",
     "birthDate": "1980-05-05",
     "gender": "2",
     "phoneNumber1": "080-5678-0123",
