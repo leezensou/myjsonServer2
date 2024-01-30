@@ -1,8 +1,8 @@
 {
-  "users-normal": 
+  "users-blank": 
     {
       "id":"U1",
-      "customerName": "三菱　太郎",
+      "customerName": "",
       "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
       "birthDate": "1980-05-05",
       "gender": "2",
@@ -15,72 +15,51 @@
       }
     }
    ,
-   "users-name-alpha": 
-    {
-      "id":"U2",
-      "customerName": "佐藤　一郎",
-      "customerNameKana": "サトウ　イチロウ",
-      "birthDate": "1995-11-01",
-      "gender": "1",
-      "phoneNumber1": "080-5678-0123",
-      "phoneNumber2": "090-5678-0123",
-      "phoneNumber3": "070-5678-0123",
-      "address": {
-        "postalCode": "043-0012",
-        "domesticAddress": "北海道檜山郡江差町椵川町７－１－８",
-        "domesticAddressKana": "",
-        "overseasAddress": "",
-        "overseasAddressKanji": ""
-      },
-      "isIdentityVerified": true
+   "users-name-maxLenOver": 
+   {
+    "id":"U2",
+    "customerName": "佐藤一郎あいうえおかきくけこさしすせそたちつてとなにぬねろ　一郎",
+    "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
+    "birthDate": "1980-05-05",
+    "gender": "2",
+    "phoneNumber1": "080-5678-0123",
+    "phoneNumber2": "090-5678-0123",
+    "phoneNumber3": "070-5678-0123",
+    "address": {
+      "postalCode": "114-0003",
+      "domesticAddress": "東京都千代田区丸の内１－２－３　三菱マンション１２３４"
     }
+  }
   ,
-  "users-address-not-understand": 
-    {
-      "id":"U3",
-      "customerName": "三菱　三郎　商店",
-      "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
-      "birthDate": "1980-05-05",
-      "gender": "1",
-      "phoneNumber1": "080-5678-0123",
-      "phoneNumber2": "090-5678-0123",
-      "phoneNumber3": "070-5678-0123",
-      "address": {
-        "postalCode": "114-0003",
-        "domesticAddress": "テスト市安波茶６丁目浦添店"
-      }
+  "users-name-shift-jis-ng": 
+  {
+    "id":"U3",
+    "customerName": "佐藤ئيؤوئيؤ　一郎",
+    "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
+    "birthDate": "1980-05-05",
+    "gender": "2",
+    "phoneNumber1": "080-5678-0123",
+    "phoneNumber2": "090-5678-0123",
+    "phoneNumber3": "070-5678-0123",
+    "address": {
+      "postalCode": "114-0003",
+      "domesticAddress": "東京都千代田区丸の内１－２－３　三菱マンション１２３４"
     }
+  }
    ,
-  "users-address-is-overseas": 
-    {
-      "id":"U4",
-      "customerName": "三菱　五郎",
-      "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
-      "birthDate": "1980-05-05",
-      "gender": "1",
-      "phoneNumber1": "080-5678-0123",
-      "phoneNumber2": "090-5678-0123",
-      "phoneNumber3": "070-5678-0123",
-      "address": {
-        "postalCode": "114-0004",
-        "domesticAddress": "東京都千代田区丸の内１－２－３　三菱マンション１２３４",
-        "overseasAddress": "LEVEL18,600 BOURKE STREET,MELBOURNE,VICTORIA 3000 AUSTRALIA"
-      }
+   "users-name-notallow-char": 
+  {
+    "id":"U4",
+    "customerName": "佐藤カナー々ゝゞ〇一郎",
+    "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
+    "birthDate": "1980-05-05",
+    "gender": "2",
+    "phoneNumber1": "080-5678-0123",
+    "phoneNumber2": "090-5678-0123",
+    "phoneNumber3": "070-5678-0123",
+    "address": {
+      "postalCode": "114-0003",
+      "domesticAddress": "東京都千代田区丸の内１－２－３　三菱マンション１２３４"
     }
-   ,
-  "users-no-customerName": 
-    {
-      "id":"U5",
-      "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
-      "birthDate": "1980-05-05",
-      "gender": "1",
-      "phoneNumber1": "080-5678-0123",
-      "phoneNumber2": "090-5678-0123",
-      "phoneNumber3": "070-5678-0123",
-      "address": {
-        "postalCode": "114-0003",
-        "domesticAddress": "東京都千代田区丸の内１－２－３　三菱マンション１２３４"
-      }
-    }
-   
+  }
 }
