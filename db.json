@@ -1,11 +1,11 @@
 {
-  "users-blank": 
+  "users-Gender-check": 
     {
       "id":"U1",
       "customerName": "佐藤　一郎",
-      "customerNameKana": "ミツビシ　",
+      "customerNameKana": "ミツビシ　タロウ",
       "birthDate": "1980-05-05",
-      "gender": "2",
+      "gender": "a",
       "phoneNumber1": "080-5678-0123",
       "phoneNumber2": "090-5678-0123",
       "phoneNumber3": "070-5678-0123",
@@ -15,12 +15,12 @@
       }
     }
    ,
-   "users-name-maxLenOver": 
+   "users-BirthDate-blank": 
    {
     "id":"U2",
     "customerName": "佐藤　一郎",
-    "customerNameKana": "ミツビシ　バツバツシヨウテンロウアイウエオカキクケコサシスセソナニムネロヤイユエヨハヒフヘホ",
-    "birthDate": "1980-05-05",
+    "customerNameKana": "ミツビシ　タロウ",
+    "birthDate": "",
     "gender": "2",
     "phoneNumber1": "080-5678-0123",
     "phoneNumber2": "090-5678-0123",
@@ -31,12 +31,12 @@
     }
   }
   ,
-  "users-name-shift-jis-ng": 
+  "users-BirthDate-check": 
   {
     "id":"U3",
     "customerName": "佐藤　一郎",
-    "customerNameKana": "ミツビシ　タロウئيؤوئيؤ",
-    "birthDate": "1980-05-05",
+    "customerNameKana": "ミツビシ　タロウ",
+    "birthDate": "1910-15-05",
     "gender": "2",
     "phoneNumber1": "080-5678-0123",
     "phoneNumber2": "090-5678-0123",
@@ -47,12 +47,12 @@
     }
   }
    ,
-   "users-name-notallow-char": 
+   "users-BirthDate-young": 
   {
     "id":"U4",
     "customerName": "佐藤　一郎",
-    "customerNameKana": "ミツビシ　タロウ＠ゝゞ〇",
-    "birthDate": "1980-05-05",
+    "customerNameKana": "ミツビシ　タロウ",
+    "birthDate": "2006-05-05",
     "gender": "2",
     "phoneNumber1": "080-5678-0123",
     "phoneNumber2": "090-5678-0123",
