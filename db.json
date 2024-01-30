@@ -1,55 +1,23 @@
 {
-  "users-Gender-check": 
+  "users-PostalCode-blank": 
     {
       "id":"U1",
       "customerName": "佐藤　一郎",
       "customerNameKana": "ミツビシ　タロウ",
       "birthDate": "1980-05-05",
-      "gender": "",
+      "gender": "2",
       "phoneNumber1": "080-5678-0123",
       "phoneNumber2": "090-5678-0123",
       "phoneNumber3": "070-5678-0123",
       "address": {
-        "postalCode": "114-0003",
+        "postalCode": "",
         "domesticAddress": "東京都千代田区丸の内１－２－３　三菱マンション１２３４"
       }
     }
    ,
-   "users-BirthDate-blank": 
-   {
+   "users-PostalCode-check": 
+  {
     "id":"U2",
-    "customerName": "佐藤　一郎",
-    "customerNameKana": "ミツビシ　タロウ",
-    "birthDate": "",
-    "gender": "2",
-    "phoneNumber1": "080-5678-0123",
-    "phoneNumber2": "090-5678-0123",
-    "phoneNumber3": "070-5678-0123",
-    "address": {
-      "postalCode": "114-0003",
-      "domesticAddress": "東京都千代田区丸の内１－２－３　三菱マンション１２３４"
-    }
-  }
-  ,
-  "users-BirthDate-check": 
-  {
-    "id":"U3",
-    "customerName": "佐藤　一郎",
-    "customerNameKana": "ミツビシ　タロウ",
-    "birthDate": "1910-15-05",
-    "gender": "2",
-    "phoneNumber1": "080-5678-0123",
-    "phoneNumber2": "090-5678-0123",
-    "phoneNumber3": "070-5678-0123",
-    "address": {
-      "postalCode": "114-0003",
-      "domesticAddress": "東京都千代田区丸の内１－２－３　三菱マンション１２３４"
-    }
-  }
-   ,
-   "users-BirthDate-young": 
-  {
-    "id":"U4",
     "customerName": "佐藤　一郎",
     "customerNameKana": "ミツビシ　タロウ",
     "birthDate": "2006-05-05",
@@ -58,7 +26,7 @@
     "phoneNumber2": "090-5678-0123",
     "phoneNumber3": "070-5678-0123",
     "address": {
-      "postalCode": "114-0003",
+      "postalCode": "1140003",
       "domesticAddress": "東京都千代田区丸の内１－２－３　三菱マンション１２３４"
     }
   }
