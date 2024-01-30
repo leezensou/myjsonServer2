@@ -1,5 +1,5 @@
 {
-  "users-State-blank": 
+  "users-City-maxLenOver": 
     {
       "id":"U1",
       "customerName": "佐藤　一郎",
@@ -11,11 +11,27 @@
       "phoneNumber3": "070-5678-0123",
       "address": {
         "postalCode": "114-0003",
-        "domesticAddress": "東京千代田区丸の内１－２－３三菱マンション１２３４"
+        "domesticAddress": "東京都千代田壱弐参四伍六七八九拾壱弐参四伍六七八九拾壱弐参四伍六七八九拾区丸の内１－２－３三菱マンション１２３４"
       }
     }
    ,
-  "users-State-shift-jis-ng": 
+  "users-City-shift-jis-ng": 
+  {
+    "id":"U2",
+    "customerName": "佐藤　一郎",
+    "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
+    "birthDate": "1980-05-05",
+    "gender": "2",
+    "phoneNumber1": "080-5678-0123",
+    "phoneNumber2": "090-5678-0123",
+    "phoneNumber3": "070-5678-0123",
+    "address": {
+      "postalCode": "114-0003",
+      "domesticAddress": "東京都千代田ئؤ区丸の内１－２－３　三菱マンション１２３４"
+    }
+  }
+   ,
+   "users-City-notallow-char": 
   {
     "id":"U3",
     "customerName": "佐藤　一郎",
@@ -27,23 +43,7 @@
     "phoneNumber3": "070-5678-0123",
     "address": {
       "postalCode": "114-0003",
-      "domesticAddress": "東ئؤ都千代田区丸の内１－２－３　三菱マンション１２３４"
-    }
-  }
-   ,
-   "users-State-notallow-char": 
-  {
-    "id":"U4",
-    "customerName": "佐藤　一郎",
-    "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
-    "birthDate": "1980-05-05",
-    "gender": "2",
-    "phoneNumber1": "080-5678-0123",
-    "phoneNumber2": "090-5678-0123",
-    "phoneNumber3": "070-5678-0123",
-    "address": {
-      "postalCode": "114-0003",
-      "domesticAddress": "東京＠都千代田区丸の内１－２－３　三菱マンション１２３４"
+      "domesticAddress": "東京都千代田＠区丸の内１－２－３　三菱マンション１２３４"
     }
   }
 }
