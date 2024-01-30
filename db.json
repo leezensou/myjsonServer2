@@ -3,7 +3,7 @@
     {
       "id":"U1",
       "customerName": "佐藤　一郎",
-      "customerNameKana": "",
+      "customerNameKana": "ミツビシ　",
       "birthDate": "1980-05-05",
       "gender": "2",
       "phoneNumber1": "080-5678-0123",
@@ -19,7 +19,7 @@
    {
     "id":"U2",
     "customerName": "佐藤　一郎",
-    "customerNameKana": "ミツビシタロウアイウエオカキクケコサシスセソナニムネロヤイユエヨハヒフヘホ　バツバツシヨウテン",
+    "customerNameKana": "ミツビシ　バツバツシヨウテンロウアイウエオカキクケコサシスセソナニムネロヤイユエヨハヒフヘホ",
     "birthDate": "1980-05-05",
     "gender": "2",
     "phoneNumber1": "080-5678-0123",
@@ -35,7 +35,7 @@
   {
     "id":"U3",
     "customerName": "佐藤　一郎",
-    "customerNameKana": "ミツビシタロウئيؤوئيؤ　バツバツシヨウテン",
+    "customerNameKana": "ミツビシ　タロウئيؤوئيؤ",
     "birthDate": "1980-05-05",
     "gender": "2",
     "phoneNumber1": "080-5678-0123",
@@ -51,7 +51,7 @@
   {
     "id":"U4",
     "customerName": "佐藤　一郎",
-    "customerNameKana": "ミツビシタロウ＠ゝゞ〇　バツバツシヨウテン",
+    "customerNameKana": "ミツビシ　タロウ＠ゝゞ〇",
     "birthDate": "1980-05-05",
     "gender": "2",
     "phoneNumber1": "080-5678-0123",
