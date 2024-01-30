@@ -2,7 +2,7 @@
   "users-blank": 
     {
       "id":"U1",
-      "customerName": "",
+      "customerName": "佐藤　",
       "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
       "birthDate": "1980-05-05",
       "gender": "2",
@@ -18,7 +18,7 @@
    "users-name-maxLenOver": 
    {
     "id":"U2",
-    "customerName": "佐藤一郎あいうえおかきくけこさしすせそたちつてとなにぬねろ　一郎",
+    "customerName": "佐藤　一郎一郎あいうえおかきくけこさしすせそたちつてとなにぬねろ",
     "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
     "birthDate": "1980-05-05",
     "gender": "2",
@@ -34,7 +34,7 @@
   "users-name-shift-jis-ng": 
   {
     "id":"U3",
-    "customerName": "佐藤ئيؤوئيؤ　一郎",
+    "customerName": "佐藤　一郎ئيؤوئيؤ",
     "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
     "birthDate": "1980-05-05",
     "gender": "2",
@@ -50,7 +50,7 @@
    "users-name-notallow-char": 
   {
     "id":"U4",
-    "customerName": "佐藤カナー々ゝゞ〇一郎",
+    "customerName": "佐藤　カナー々ゝゞ〇一郎",
     "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
     "birthDate": "1980-05-05",
     "gender": "2",
