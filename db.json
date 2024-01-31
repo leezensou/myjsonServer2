@@ -1,49 +1,72 @@
 {
-  "users-Street-maxLenOver": 
+  "users-980-0812": 
     {
       "id":"U1",
-      "customerName": "佐藤　一郎",
+      "customerName": "三菱　太郎",
       "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
       "birthDate": "1980-05-05",
       "gender": "2",
       "phoneNumber1": "080-5678-0123",
-      "phoneNumber2": "090-5678-0123",
-      "phoneNumber3": "070-5678-0123",
       "address": {
-        "postalCode": "114-0003",
-        "domesticAddress": "東京都千代田区壱弐参四伍六七八九拾壱弐参四伍六七八九拾壱弐参四伍六七八九拾壱弐参四伍六七八九拾壱弐参四伍六七八九拾壱弐参四伍六七八九拾壱弐参四伍六七八九拾壱弐参四伍六七八九拾壱弐参四伍六七八九拾壱弐参四伍六七八九拾壱弐参四伍六七八九拾壱弐参四伍六七八九拾壱弐参四伍六七八九拾壱弐参四伍六七八九拾壱弐参四伍六七八九拾壱弐参四伍六七八九拾壱弐参四伍六七八九拾壱弐参四伍六七八九拾壱弐参四伍六七八九拾壱弐参四伍六七八九拾壱弐参四伍六七八九拾壱弐参四伍六七八九拾壱弐参四伍六七八九拾壱弐参四伍六七八九拾丸の内１－２－３三菱マンション１２３４"
+        "postalCode": "980-0812",
+        "domesticAddress": "仙台市青葉区片平1-1-18 バレンタインハウス 1F"
       }
     }
    ,
-  "users-Street-shift-jis-ng": 
-  {
-    "id":"U2",
-    "customerName": "佐藤　一郎",
-    "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
-    "birthDate": "1980-05-05",
-    "gender": "2",
-    "phoneNumber1": "080-5678-0123",
-    "phoneNumber2": "090-5678-0123",
-    "phoneNumber3": "070-5678-0123",
-    "address": {
-      "postalCode": "114-0003",
-      "domesticAddress": "東京都千代田区丸の内１－２－３　三菱ئؤマンション１２３４"
+   "users-802-0064": 
+    {
+      "id":"U2",
+      "customerName": "三菱　太郎",
+      "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
+      "birthDate": "1980-05-05",
+      "gender": "2",
+      "phoneNumber1": "080-5678-0123",
+      "address": {
+        "postalCode": "802-0064",
+        "domesticAddress": "北九州市小倉北区片野4-16-21"
+      }
     }
-  }
+  ,
+  "users-530-0057": 
+    {
+      "id":"U3",
+      "customerName": "三菱　太郎",
+      "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
+      "birthDate": "1980-05-05",
+      "gender": "1",
+      "phoneNumber1": "080-5678-0123",
+      "address": {
+        "postalCode": "530-0057",
+        "domesticAddress": "大阪市北区曽根崎2-3-5　梅新第一生命ビルディング"
+      }
+    }
    ,
-   "users-Street-notallow-char": 
-  {
-    "id":"U3",
-    "customerName": "佐藤　一郎",
-    "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
-    "birthDate": "1980-05-05",
-    "gender": "2",
-    "phoneNumber1": "080-5678-0123",
-    "phoneNumber2": "090-5678-0123",
-    "phoneNumber3": "070-5678-0123",
-    "address": {
-      "postalCode": "114-0003",
-      "domesticAddress": "東京都千代田区丸の内１－２－３　三菱＠マンション１２３４"
+  "users-252-0231": 
+    {
+      "id":"U4",
+      "customerName": "三菱　太郎",
+      "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
+      "birthDate": "1980-05-05",
+      "gender": "1",
+      "phoneNumber1": "080-5678-0123",
+      "address": {
+        "postalCode": "252-0231",
+        "domesticAddress": "相模原市中央区相模原3-1-18（相模原支店内）"
+      }
     }
-  }
+   ,
+  "users-330-0843": 
+    {
+      "id":"U5",
+	  "customerName": "三菱　太郎",
+      "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
+      "birthDate": "1980-05-05",
+      "gender": "1",
+      "phoneNumber1": "080-5678-0123",
+      "address": {
+        "postalCode": "330-0843",
+        "domesticAddress": "さいたま市大宮区吉敷町4-263-1"
+      }
+    }
+   
 }
