@@ -1,5 +1,5 @@
 {
-  "users-810-8544": 
+  "users-420-8508": 
     {
       "id":"U1",
       "customerName": "三菱　太郎",
@@ -8,12 +8,12 @@
       "gender": "2",
       "phoneNumber1": "080-5678-0123",
       "address": {
-        "postalCode": "810-8544",
-        "domesticAddress": "福岡市中央区天神2-1-1"
+        "postalCode": "420-8508",
+        "domesticAddress": "静岡市葵区鷹匠1-1-1新静岡セノバ３F"
       }
     }
    ,
-   "users-604-8152": 
+   "users-460-0003": 
     {
       "id":"U2",
       "customerName": "三菱　太郎",
@@ -22,12 +22,12 @@
       "gender": "2",
       "phoneNumber1": "080-5678-0123",
       "address": {
-        "postalCode": "604-8152",
-        "domesticAddress": "京都市中京区烏丸通錦小路上ル手洗水町659"
+        "postalCode": "460-0003",
+        "domesticAddress": "名古屋市中区錦三丁目19番17号"
       }
     }
   ,
-  "users-951-8063": 
+  "users-210-0006": 
     {
       "id":"U3",
       "customerName": "三菱　太郎",
@@ -36,12 +36,12 @@
       "gender": "1",
       "phoneNumber1": "080-5678-0123",
       "address": {
-        "postalCode": "951-8063",
-        "domesticAddress": "新潟市中央区古町通り３番町５５６"
+        "postalCode": "210-0006",
+        "domesticAddress": "川崎市川崎区砂子1-8-1"
       }
     }
    ,
-  "users-260-0028": 
+  "users-700-0024": 
     {
       "id":"U4",
       "customerName": "三菱　太郎",
@@ -50,12 +50,12 @@
       "gender": "1",
       "phoneNumber1": "080-5678-0123",
       "address": {
-        "postalCode": "260-0028",
-        "domesticAddress": "千葉市中央区新町1000番地"
+        "postalCode": "700-0024",
+        "domesticAddress": "岡山市 北区 駅元町1-6 岡山フコク生命駅前ビル10階"
       }
     }
    ,
-  "users-730-0036": 
+  "users-650-8570": 
     {
       "id":"U5",
 	  "customerName": "三菱　太郎",
@@ -64,8 +64,8 @@
       "gender": "1",
       "phoneNumber1": "080-5678-0123",
       "address": {
-        "postalCode": "730-0036",
-        "domesticAddress": "広島市中区袋町6-51 サンポークリエイトビル2F"
+        "postalCode": "650-8570",
+        "domesticAddress": "神戸市中央区加納町6丁目5-1　神戸市役所1号館20階"
       }
     }
 }
