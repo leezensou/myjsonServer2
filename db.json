@@ -1,19 +1,19 @@
 {
-  "users-534-0002": 
+  "users-980-0812-2": 
     {
       "id":"U1",
       "customerName": "三菱　太郎",
-      "customerNameKana": "ミツビ シタロウ　バツバツシヨウテン",
+      "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
       "birthDate": "1980-05-05",
       "gender": "2",
       "phoneNumber1": "080-5678-0123",
       "address": {
-        "postalCode": "534-0002",
-        "domesticAddress": "大阪市　 都島区大東町　 1丁目-1-1-123"
+        "postalCode": "980-0812",
+        "domesticAddress": "仙台市青葉区　片平1-1-18 バレンタインハウス 1F"
       }
     }
    ,
-   "users-194-0045": 
+   "users-530-0057-2": 
     {
       "id":"U2",
       "customerName": "三菱　太郎",
@@ -22,26 +22,26 @@
       "gender": "2",
       "phoneNumber1": "080-5678-0123",
       "address": {
-        "postalCode": "194-0045",
-        "domesticAddress": "東京 都　 町田市 　成瀬　1丁目-1-1-123"
+        "postalCode": "530-0057",
+        "domesticAddress": "大阪市北区 曽根崎2-3-5 梅新第一生命ビルディング"
       }
     }
   ,
-  "users-272-0822": 
+  "users-730-0036-2": 
     {
       "id":"U3",
       "customerName": "三菱　太郎",
-      "customerNameKana": "ミツビ シタロウ　バツバツシヨウテン",
+      "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
       "birthDate": "1980-05-05",
       "gender": "1",
       "phoneNumber1": "080-5678-0123",
       "address": {
-        "postalCode": "272-0822",
-        "domesticAddress": "千葉 県　市川市　八幡　1丁目-1-1-123"
+        "postalCode": "730-0036",
+        "domesticAddress": "広島市中区　袋町　6-51　サンポークリエイトビル　2F"
       }
     }
    ,
-  "users-856-0017": 
+  "users-060-0001-2": 
     {
       "id":"U4",
       "customerName": "三菱　太郎",
@@ -50,12 +50,12 @@
       "gender": "1",
       "phoneNumber1": "080-5678-0123",
       "address": {
-        "postalCode": "856-0017",
-        "domesticAddress": "長崎 県　大村市　池 田　1丁目-1-1-123"
+        "postalCode": "060-0001",
+        "domesticAddress": "札幌市中央区　　北一条西2-2-2　　北海道経済センタービル"
       }
     }
    ,
-  "users-530-0057": 
+  "users-060-0001-3": 
     {
       "id":"U5",
 	  "customerName": "三菱　太郎",
@@ -64,8 +64,8 @@
       "gender": "1",
       "phoneNumber1": "080-5678-0123",
       "address": {
-        "postalCode": "530-0057",
-        "domesticAddress": "大阪 市　 北区 　曽根崎2-3-5　梅新第一生命ビルディング"
+        "postalCode": "060-0001",
+        "domesticAddress": "札幌市中央区  北一条西2-2-2  北海道経済センタービル"
       }
     }
 }
