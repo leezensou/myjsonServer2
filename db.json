@@ -1,5 +1,5 @@
 {
-  "users-980-0812-2": 
+  "users-060-0001-4": 
     {
       "id":"U1",
       "customerName": "三菱　太郎",
@@ -8,12 +8,12 @@
       "gender": "2",
       "phoneNumber1": "080-5678-0123",
       "address": {
-        "postalCode": "980-0812",
-        "domesticAddress": "仙台市青葉区　片平1-1-18 バレンタインハウス 1F"
+        "postalCode": "060-0001",
+        "domesticAddress": "札幌市中央区　　北一条西2-2-2  北海道経済センタービル"
       }
     }
    ,
-   "users-530-0057-2": 
+   "users-060-0001-5": 
     {
       "id":"U2",
       "customerName": "三菱　太郎",
@@ -22,8 +22,8 @@
       "gender": "2",
       "phoneNumber1": "080-5678-0123",
       "address": {
-        "postalCode": "530-0057",
-        "domesticAddress": "大阪市北区 曽根崎2-3-5 梅新第一生命ビルディング"
+        "postalCode": "060-0001",
+        "domesticAddress": " 　 札幌市中央区　　北一条西2-2-3  北海道経済センタービル 　 "
       }
     }
   ,
