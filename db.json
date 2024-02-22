@@ -27,7 +27,7 @@
       }
     }
   ,
-  "users-730-0036-2": 
+  "users-554-0043": 
     {
       "id":"U3",
       "customerName": "三菱　太郎",
@@ -36,12 +36,12 @@
       "gender": "1",
       "phoneNumber1": "080-5678-0123",
       "address": {
-        "postalCode": "730-0036",
-        "domesticAddress": "広島市中区　袋町　6-51　サンポークリエイトビル　2F"
+        "postalCode": "554-0043",
+        "domesticAddress": "大阪市此花区　夢洲中　１丁目－１－１ 夢洲物流センター 2F"
       }
     }
    ,
-  "users-060-0001-2": 
+  "users-647-0081": 
     {
       "id":"U4",
       "customerName": "三菱　太郎",
@@ -50,8 +50,8 @@
       "gender": "1",
       "phoneNumber1": "080-5678-0123",
       "address": {
-        "postalCode": "060-0001",
-        "domesticAddress": "札幌市中央区　　北一条西2-2-2　　北海道経済センタービル"
+        "postalCode": "647-0081",
+        "domesticAddress": "和歌山県　新宮市　新宮　３６１５−５"
       }
     }
    ,
